@@ -1,7 +1,10 @@
 # AI-Plays-Flappy-Bird
-I used neural network that i created from scratch in Java and used genetic algorithm to train a bunch of neural nets.
+
 
 #### Press 'B' to show the best bird only
+
+
+I used neural network that i created from scratch in Java and used genetic algorithm to train a bunch of neural nets. 
 
 ## How I learned this:
 
